@@ -48,10 +48,11 @@ Follow these steps to run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Pallavi-techie/B2World-internshipWork.git
+git clone https://github.com/Pallavi-techie/legal-services-website-clone.git
+
 
 # Navigate into the project directory
-cd B2World-internshipWork
+cd legal-services-website-clone
 
 # Install dependencies
 npm install
