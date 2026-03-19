@@ -1,31 +1,22 @@
-# 🌐 B2World Internship Project – Online Legal India Website
+🌐 Legal Services Website — Frontend Clone
+A fully responsive React.js website built to practise modern frontend development. Inspired by a legal services website design, this project focuses on component architecture, animations, and responsive UI using the React ecosystem.
 
-This project was developed during my internship at **B2World**.  
-It’s a fully responsive **React.js** website built with **Tailwind CSS**, integrating modern libraries for animation, routing, and interactive UI components.
+⚠️ Built for learning purposes only. Not affiliated with any real company or brand.
 
----
-
-## 🧾 Overview
-
-The website aims to provide a sleek, responsive, and modern frontend design that showcases professional legal or service-based website functionality.  
-Built using the **React ecosystem**, it leverages reusable components, smooth transitions, and optimized performance for a professional web experience.
-
----
-
-## ⚙️ Tech Stack
-
-- **Frontend:** React.js, JavaScript (ES6+)
-- **Styling:** Tailwind CSS, Bootstrap
-- **Routing:** React Router DOM
-- **Animations:** AOS (Animate on Scroll), Framer Motion
-- **UI Components:** Radix UI, Lucide React Icons, React Icons
-- **Carousel & Sliders:** React Slick, Swiper
-- **Forms:** React Hook Form
-- **SEO Support:** React Helmet
-- **Testing:** React Testing Library, Jest DOM
-
----
-
+🧾 Overview
+This project was built to strengthen frontend skills including reusable component design, smooth animations, responsive layouts, and modern React patterns. It simulates a professional legal or service-based website with a clean and polished UI.
+⚙️ Tech Stack
+------------
+Frontend: React.js, JavaScript (ES6+)
+Styling: Tailwind CSS, Bootstrap
+Routing: React Router DOM
+Animations: AOS (Animate on Scroll), Framer Motion
+UI Components: Radix UI, Lucide React, React Icons
+Carousel & Sliders: React Slick, Swiper
+Forms: React Hook Form
+SEO: React Helmet
+Testing: React Testing Library, Jest DOM
+---------
 ## 📦 Dependencies
 
 | Package | Description |
@@ -41,8 +32,15 @@ Built using the **React ecosystem**, it leverages reusable components, smooth tr
 | `react-helmet` | SEO metadata control |
 | `@radix-ui/react-select` | Accessible select dropdowns |
 
----
+---------
 
+## 📚 What I Learned
+Building large scale React apps with reusable components
+Implementing scroll animations with Framer Motion and AOS
+Managing forms with React Hook Form
+Creating responsive layouts with Tailwind CSS and Bootstrap
+Using Swiper and React Slick for carousels and sliders
+-----------
 ## 🚀 How to Run
 
 Follow these steps to run this project locally:
@@ -59,4 +57,11 @@ npm install
 
 # Start the development server
 npm start
+
+
+
+
+
+
+
 
