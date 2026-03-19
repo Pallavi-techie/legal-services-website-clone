@@ -1,4 +1,5 @@
-🌐 Legal Services Website — Frontend Clone
+## 🌐 Legal Services Website — Frontend Clone
+
 A fully responsive React.js website built to practise modern frontend development. Inspired by a legal services website design, this project focuses on component architecture, animations, and responsive UI using the React ecosystem.
 
 ⚠️ Built for learning purposes only. Not affiliated with any real company or brand.
